@@ -1,5 +1,4 @@
 fastapi-azure-auth
 fastapi
-gunicorn
 uvicorn
 pydantic-settings
